@@ -1,0 +1,11 @@
+C:\Users\Ragral\source\repos\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Ragral\source\repos\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Ragral\source\repos\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.PictureEdit.resources
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Ragral\source\repos\Editor\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
